@@ -1,4 +1,5 @@
-<iframe data-aa="1386306" src="//ad.a-ads.com/1386306?size=728x90" scrolling="no" style="width:728px; height:90px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe><!--[ 300x250 Ad Tag ( wp.dhsmathsoc.workers.dev ) - AdmediaTex CPM Ltd // www.admediatex.net // ]-->
+<iframe data-aa="1386306" src="//ad.a-ads.com/1386306?size=728x90" scrolling="no" style="width:728px; height:90px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe><iframe src="//admediatex.net/serve/dl.php?user=MjI5MQ%3D%3D" scrolling="no" style="width:728px; height:90px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>
+<!--[ 300x250 Ad Tag ( wp.dhsmathsoc.workers.dev ) - AdmediaTex CPM Ltd // www.admediatex.net // ]-->
 <script type="text/javascript"> var a = "2803"; var b = "300x250"; var network = "admediatex.net"; </script>
 <script type="text/javascript" src="//admediatex.net/serve/ads.js"></script>
 <!--[ End of the Ad Tag - AdmediaTex CPM Ltd // www.admediatex.net // ]--><script type="text/javascript">
